@@ -1,32 +1,12 @@
-html,
-body,
-#app {
-  height: 100%;
+* {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-#app {
-  display: flex;
-}
-
-.box {
-  width: 150px;
-  height: 60px;
-
-  margin: 5px;
-}
-
-.red {
-  background: #f00;
-  order: 1;
-}
-
-.green {
-  background: #0f0;
-  order: 2;
-}
-
-.blue {
-  background: #00f;
-  order: 0;
+body {
+  background: #e6ecf0;
+  font-family: 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+  text-rendering: optimizeLegibility !important;
+  -webkit-font-smoothing: antialiased !important;
 }
