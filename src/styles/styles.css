@@ -1,7 +1,9 @@
-body {
-  background-color: '#efefef';
+#app {
 }
 
-h1 {
-  font-size: '120px';
+.box {
+  width: 60px;
+  height: 60px;
+  background: #f00;
+  margin: 5px;
 }
