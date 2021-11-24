@@ -1,9 +1,9 @@
 ## About
 
-Simple vanilla javascript boilerplate with external JavaScript and CSS files.
+Flexbox layout study of Twitter user page.
+Created through Rocketseat's "Flexbox" online training.
 
 ### Features
 
-- index.html
-- main/main.js
-- styles/styles.css
+- HTML
+- Flexbox layout (CSS3)
