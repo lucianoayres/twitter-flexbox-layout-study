@@ -1,7 +1,6 @@
 ## About
 
-Flexbox layout study of Twitter user page.
-Created through Rocketseat's "Flexbox" online training.
+Recreation of Twitter user page using Flexbox layout (CSS3). Created through Rocketseat's 'Flexbox' online training.
 
 ### Link
 
